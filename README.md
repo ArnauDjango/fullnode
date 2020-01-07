@@ -20,4 +20,4 @@ need to reorganize directory
 
 - app.js
 - config
-  -server.js
+  - server.js
